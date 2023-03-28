@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Lista de reproducción</title>
+	<trackList>
+		<track>
+			<location>https://ythls.onrender.com/channel/UCTXNz3gjAypWp3EhlIATEJQ.m3u8</location>
+			<title>24 Horas (720p) [Not 24/7]</title>
+			<duration>30000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://unlimited1-us.dps.live/adntv/adntv.smil/playlist.m3u8</location>
+			<title>ADN Radio (1080p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://edge1.cl.grupoz.cl/aeradio/live/index.m3u8</location>
+			<title>AE Radio TV (720p) [Not 24/7]</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8</location>
+			<title>Agrotendencia TV (1080p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8</location>
+			<title>Alegria TV (480p) [Geo-blocked]</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://azxtv.com/hls/stream.m3u8</location>
+			<title>Anime Zone TV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8</location>
+			<title>Antofagasta TV (ATV) (1080p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://5eff35271151c.streamlock.net:1936/8002/8002/playlist.m3u8</location>
+			<title>Arica TV (480p) [Not 24/7]</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://v2.tustreaming.cl/atacamatv/index.m3u8</location>
+			<title>Atacama TV (Copiapó) (720p) [Not 24/7]</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://cvi.cdn.rcs.net.ar/mnp/axn_hls/playlist.m3u8</location>
+			<title>AXN (1080p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://v1.tustreaming.cl/aysentv/index.m3u8</location>
+			<title>Aysen TV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8</location>
+			<title>Canal 9 Bío Bío Televisión (1080p) [Not 24/7]</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://chv-m3u.chorroaeboy.repl.co</location>
+			<title>ChileVisión (720p) [Geo-blocked]</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://v2.tustreaming.cl/clicktv/playlist.m3u8</location>
+			<title>Click TV (Coronel) (720p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://mediacpstreamchile.com:1936/clubtv/clubtv/playlist.m3u8</location>
+			<title>Club TV (Santa Juana) (720p) [Not 24/7]</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8</location>
+			<title>CNN Chile (720p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://209.91.213.10:8088/play/a014</location>
+			<title>CNN en Español</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://rpn1.bozztv.com/36bay2/gusa-goldentv/mono.m3u8</location>
+			<title>Golden TV (240p) [Not 24/7]</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://vdochile.com:3134/hybrid/play.m3u8</location>
+			<title>La Chilena TV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8</location>
+			<title>La Red (720p) [Not 24/7]</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://mediacpstreamchile.com:1936/latinosmedia-1/latinosmedia-1/playlist.m3u8</location>
+			<title>Latinos Radio</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8</location>
+			<title>Mega (480p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://ythls.onrender.com/channel/UCkccyEbqhhM3uKOI6Shm-4Q.m3u8</location>
+			<title>Meganoticias (720p) [Not 24/7]</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://593b04c4c5670.streamlock.net/8002/8002/playlist.m3u8</location>
+			<title>Recuerdos Retro</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8</location>
+			<title>Retro Plus 2 HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8</location>
+			<title>Retro Plus 3 (720p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8</location>
+			<title>Retro Plus HD</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://paneltv.online:1936/8116/8116/playlist.m3u8</location>
+			<title>SoloStandUp (480p) [Not 24/7]</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://ythls.onrender.com/channel/UCsRnhjcUCR78Q3Ud6OXCTNg.m3u8</location>
+			<title>T13 (720p) [Not 24/7]</title>
+			<duration>34000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://593b04c4c5670.streamlock.net/8014/8014/playlist.m3u8</location>
+			<title>TV8 (Concepción) (514p) [Geo-blocked]</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://162.246.18.122:8081/telepuerto-master/ucl-abr/playlist.m3u8</location>
+			<title>UCL (720p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8</location>
+			<title>UCV TV (720p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://unlimited10-cl.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8</location>
+			<title>UCV TV Eventos (720p) [Not 24/7]</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://tls-cl.cdnz.cl/uestv/live/playlist.m3u8</location>
+			<title>UESTV (720p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://v2.tustreaming.cl/utv/index.m3u8</location>
+			<title>UTV</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8</location>
+			<title>Zapping Music (720p)</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://38.131.11.9:1080/play/a00x</location>
+			<title>Zona Latina (480p) [Not 24/7]</title>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+		<vlc:item tid="23"/>
+		<vlc:item tid="24"/>
+		<vlc:item tid="25"/>
+		<vlc:item tid="26"/>
+		<vlc:item tid="27"/>
+		<vlc:item tid="28"/>
+		<vlc:item tid="29"/>
+		<vlc:item tid="30"/>
+		<vlc:item tid="31"/>
+		<vlc:item tid="32"/>
+		<vlc:item tid="33"/>
+		<vlc:item tid="34"/>
+		<vlc:item tid="35"/>
+		<vlc:item tid="36"/>
+	</extension>
+</playlist>
